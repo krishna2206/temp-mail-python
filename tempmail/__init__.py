@@ -1,1 +1,1 @@
- 
+from .tempmail import TempMail 
